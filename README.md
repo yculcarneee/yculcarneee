@@ -17,7 +17,7 @@
  
 **I am currently looking for full-time Software Development roles in USA starting in February 2021. If you have any leads, please feel free to reach out to me on my socials linked above**
 
-Hello, I'm Yash, a software developer with experience in development using C++ and Python and web technologies such as React, Node.js, Express, etc.  \
+Hello, I'm Yash, a software developer with experience in development using C++ and Python and web technologies such as React, Node.js, Express, etc.  
 
 I recently completed my Master of Computer Science degree at the University of California - Irvine. I interned at Amazon Web Services in Summer 2020, where I developed a system that automates UI testing for developers in the AWS Console team. I have a strong background in Data Structures and Algorithms, along with a keen interest in Machine Learning and Artificial Intelligence.
 
